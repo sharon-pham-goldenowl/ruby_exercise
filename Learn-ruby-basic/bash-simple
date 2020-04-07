@@ -1,0 +1,9 @@
+pwd: current location
+cd path/to/dir: go to dir
+ll: list all files with details
+ls: list all files with name
+mkdir dir_name: create new folder with name is dir_name
+touch file_name: create new file with name is file_name
+rm -rf file_or_folder
+clear: clear all text in terminal
+nautilus . -> open current location with Files
