@@ -1,0 +1,1 @@
+Write a ruby program to read csv file and prinout out data.
